@@ -6,4 +6,4 @@ HOW TO USE:
   
   2. Start nocd.exe it will patch 5 annoyng bytes in flanker binaries
   
-  4. https://www.youtube.com/watch?v=pMhfbLRoGEw
+  4. https://www.youtube.com/watch?v=zHcKn62X9vo
